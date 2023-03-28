@@ -14,9 +14,9 @@ Skills: JavaScript (ES6) / ReactJs / ExpressJs / NodeJs / Adobe Illustrator / Ad
 
 - 📫 How to reach me: leiladany16@gmail.com 
 
-<h2 class="hr-lines"></h2>
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Leiladany)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/leila-teixeira/)  
+
+<h2 class="hr-lines"></h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leiladany)](https://github.com/anuraghazra/github-readme-stats)
 
