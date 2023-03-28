@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm Leila
 
+#### I'm Junior Full-Stack Web Developer
+
 <h2 class="hr-lines"></h2>
 
-#### I'm Junior Full-Stack Web Developer
 Web Developer fond of making meaningful creative and high-quality stuff
 
 Skills: JavaScript (ES6) / ReactJs / ExpressJs / NodeJs / Adobe Illustrator / Adobe Photoshop / Adobe XD / HTML / CSS / MySQL
@@ -11,6 +12,7 @@ Skills: JavaScript (ES6) / ReactJs / ExpressJs / NodeJs / Adobe Illustrator / Ad
 - 🌱 I’m currently learning TypeScript 
 - 📫 How to reach me: leiladany16@gmail.com 
 
+<h2 class="hr-lines"></h2>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Leiladany)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/leila-teixeira/)  
 
