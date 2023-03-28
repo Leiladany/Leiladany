@@ -4,7 +4,7 @@
 
 <h2 class="hr-lines"></h2>
 
-Web Developer fond of making meaningful creative and high-quality stuff
+Web Developer fond of making meaningful and creative projects 🥸
 
 Skills: JavaScript (ES6) / ReactJs / ExpressJs / NodeJs / Adobe Illustrator / Adobe Photoshop / Adobe XD / HTML / CSS / MySQL
 
