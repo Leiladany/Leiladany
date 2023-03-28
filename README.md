@@ -8,7 +8,7 @@ Web Developer fond of making meaningful and creative projects 🥸
 
 Skills: JavaScript (ES6) / ReactJs / ExpressJs / NodeJs / Adobe Illustrator / Adobe Photoshop / Adobe XD / HTML / CSS / MySQL
 
-- 🔭 I’m currently working on On improve my old projects 
+- 🔭 I’m currently working on improve my old projects 
 
 - 🌱 I’m currently learning TypeScript 
 
