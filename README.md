@@ -6,11 +6,11 @@
 
 Web Developer fond of making meaningful and creative projects 🥸
 
-Skills: JavaScript (ES6) / ReactJs / ExpressJs / NodeJs / Adobe Illustrator / Adobe Photoshop / Adobe XD / HTML / CSS / MySQL
+Skills: JavaScript (ES6) / ReactJs / ExpressJs / NodeJs / Adobe Illustrator / Adobe Photoshop / Adobe XD / HTML / CSS / MySQL / React Native
 
 - 🔭 I’m currently working on improve my old projects 
 
-- 🌱 I’m currently learning TypeScript 
+- 🌱 I’m currently learning OutSystems 
 
 - 📫 How to reach me: leiladany16@gmail.com 
 
