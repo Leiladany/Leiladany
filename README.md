@@ -1,4 +1,4 @@
-<h2>Hi there 👋, I'm Leila</h2>
+<h2>Hi there 👋 I'm Leila</h2>
 
 I'm a Junior Frontend Web Developer with a passion for making meaningful and creative projects 🥸
 
