@@ -1,24 +1,9 @@
-### Hi there 👋, I'm Leila
+<h2>Hi there 👋, I'm Leila</h2>
 
-#### I'm Junior Full-Stack Web Developer
+I'm a Junior Frontend Web Developer with a passion for making meaningful and creative projects 🥸
 
-<h2 class="hr-lines"></h2>
+My skills: React / React Native / JavaScript / HTML / CSS / Adobe Illustrator / Adobe Photoshop / Adobe XD / MySQL / OutSystems
 
-Web Developer fond of making meaningful and creative projects 🥸
-
-Skills: JavaScript (ES6) / ReactJs / ExpressJs / NodeJs / Adobe Illustrator / Adobe Photoshop / Adobe XD / HTML / CSS / MySQL / React Native
-
-- 🔭 I’m currently working on improve my old projects 
-
-- 🌱 I’m currently learning OutSystems 
-
-- 📫 How to reach me: leiladany16@gmail.com 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Leiladany)                   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/leila-teixeira/)  
-
-<h2 class="hr-lines"></h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leiladany)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leiladany&show_icons=true)  
-
+- 🌱 I’m always looking to improve as a developer and learn new technologies
+- 🔭 I’m currently working on improving my old projects
+- 📫 Reach me at leiladany16@gmail.com or https://www.linkedin.com/in/leila-teixeira/
