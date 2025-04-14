@@ -1,6 +1,6 @@
 <h2>Hi there 👋 I'm Leila</h2>
 
-I'm a Junior Frontend Web Developer with a passion for making meaningful and creative projects 🥸
+I'm a Frontend Developer with a passion for making meaningful and creative projects 🥸
 
 My skills: React / React Native / JavaScript / HTML / CSS / Adobe Illustrator / Adobe Photoshop / Adobe XD / MySQL / OutSystems
 
