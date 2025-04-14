@@ -17,7 +17,7 @@ Material UI, Bootstrap, Tailwind CSS, Mantine
 SQL, MongoDB, REST API
 
 ### 🛠 My Tool Stack
-OutSystems, Git, GitHub, Figma, Canvas, Adobe XD, Adobe Photoshop, Adobe Illustrator
+OutSystems, Postman, Git, GitHub, Figma, Canvas, Adobe XD, Adobe Photoshop, Adobe Illustrator
 
 ---
 
