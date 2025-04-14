@@ -2,7 +2,7 @@
 
 I'm a Frontend Developer with a passion for making meaningful and creative projects 🥸
 
-My skills: React / React Native / JavaScript / HTML / CSS / Adobe Illustrator / Adobe Photoshop / Adobe XD / MySQL / OutSystems
+My skills: React / React Native / JavaScript / TypeScript / HTML / CSS / Bootstrap / Material UI / Tailwind CSS / Figma / Canvas / MySQL / OutSystems / Git / Github / Adobe XD / Adobe Photoshop / Adobe Illustrator
 
 - 🌱 I’m always looking to improve as a developer and learn new technologies
 - 🔭 I’m currently working on improving my old projects
