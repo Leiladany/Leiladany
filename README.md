@@ -1,9 +1,31 @@
 <h2>Hi there 👋 I'm Leila</h2>
 
-I'm a Frontend Developer with a passion for making meaningful and creative projects 🥸
+I'm a **Frontend Developer** with a passion for building meaningful, creative, and user-centered applications. I love transforming ideas into seamless digital experiences 🥸
 
-My skills: React / React Native / JavaScript / TypeScript / HTML / CSS / Bootstrap / Material UI / Tailwind CSS / Figma / Canvas / MySQL / OutSystems / Git / Github / Adobe XD / Adobe Photoshop / Adobe Illustrator
+📌 Check out my web portfolio: [coding-leila.netlify.app](https://coding-leila.netlify.app)
 
-- 🌱 I’m always looking to improve as a developer and learn new technologies
-- 🔭 I’m currently working on improving my old projects
-- 📫 Reach me at leiladany16@gmail.com or https://www.linkedin.com/in/leila-teixeira/
+---
+
+### 🧠 My Tech Stack
+**Languages & Frameworks:**  
+React, React Native, JavaScript, TypeScript, HTML, CSS
+
+**Styling & UI:**  
+Material UI, Bootstrap, Tailwind CSS, Mantine
+
+**Backend & APIs:**  
+SQL, MongoDB, REST API
+
+### 🛠 My Tool Stack
+OutSystems, Git, GitHub, Figma, Canvas, Adobe XD, Adobe Photoshop, Adobe Illustrator
+
+---
+
+### 🌸 About Me
+- 🌱 I’m always learning and exploring new technologies to improve as a developer  
+- 🔧 Currently updating and refining past projects  
+- 📫 Reach me at **leiladany16@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/leila-teixeira/)
+
+---
+
+Let's build something amazing together! 🚀
